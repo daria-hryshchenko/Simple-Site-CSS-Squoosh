@@ -75,7 +75,7 @@ body {
   color: #ffffff;
   text-decoration: none;
 }
-.company-address:hove,
+.company-address:hover,
 .company-address:focus {
   color: var(--hover-color);
 }
