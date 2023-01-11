@@ -1,8 +1,8 @@
 Homework 📚
 
-:arrow_right:  Learning the basics of CSS
+:arrow_right:  Improve My HTML & CSS Skills
 
-:arrow_right: Clone the created repository and copy the files of the previous work into it
+:arrow_right: Cloned the previous lesson repository.
 
 :arrow_right: Mark up and design the homework page layout #2
 
