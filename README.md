@@ -1,4 +1,4 @@
-Homework 📚
+Important Points 📚
 
 :arrow_right:  Improve My HTML & CSS Skills
 
